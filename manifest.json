@@ -1,0 +1,331 @@
+{
+  "name": "Mi servidor de Minecraft",
+  "launcher_version": "1.0.0",
+  "minecraft_version": "1.21.1",
+  "modloader": "neoforge",
+  "modloader_version": "21.1.264",
+  "server": {
+    "address": "shrimp-swings.tun.ply.gg",
+    "port": 25565
+  },
+  "mods": [
+    {
+      "name": "alexsmobs-1.22.17.jar",
+      "url": "https://N3150N-MC.github.io/mi-launcher/mods/alexsmobs-1.22.17.jar",
+      "sha256": "6e502855f79e4c9f2a11d560a9b88a3ab295aa378c44b0f0a0dd95f95d0301a6",
+      "size": 26620546
+    },
+    {
+      "name": "almanac-neoforge-1.21.1-1.26.10.3.jar",
+      "url": "https://N3150N-MC.github.io/mi-launcher/mods/almanac-neoforge-1.21.1-1.26.10.3.jar",
+      "sha256": "53367bb59e890bb11975cb9e630996c9c9373b6fe139328da7547c0eca365e22",
+      "size": 402267
+    },
+    {
+      "name": "another_furniture-neoforge-4.0.3.jar",
+      "url": "https://N3150N-MC.github.io/mi-launcher/mods/another_furniture-neoforge-4.0.3.jar",
+      "sha256": "a416cb33333d7a489c7a7314e918f564787838630b014c281b83adde014457d0",
+      "size": 2422436
+    },
+    {
+      "name": "architectury-13.0.11-neoforge.jar",
+      "url": "https://N3150N-MC.github.io/mi-launcher/mods/architectury-13.0.11-neoforge.jar",
+      "sha256": "9cc92f2c09533fc5482c60f993bd891c655a0e32b637037cdcb7c2b23adedeeb",
+      "size": 584734
+    },
+    {
+      "name": "artifacts-neoforge-13.2.5.jar",
+      "url": "https://N3150N-MC.github.io/mi-launcher/mods/artifacts-neoforge-13.2.5.jar",
+      "sha256": "e36a929420a0a616abdb28f5bbbdb866a426aa3bb78d1b39bc1183927c101ce6",
+      "size": 1086922
+    },
+    {
+      "name": "balm-neoforge-1.21.1-21.0.66.jar",
+      "url": "https://N3150N-MC.github.io/mi-launcher/mods/balm-neoforge-1.21.1-21.0.66.jar",
+      "sha256": "6be660e1f6d169553bf44f66d4f78bb9e96a1d66ce108d9608819e3ce6bfba34",
+      "size": 783793
+    },
+    {
+      "name": "betterblockz-0.2.10-1.21.1-neoforge.jar",
+      "url": "https://N3150N-MC.github.io/mi-launcher/mods/betterblockz-0.2.10-1.21.1-neoforge.jar",
+      "sha256": "97df039699ad2c035df87f8e859be022725c01235ab0303339438f11c2f1fb58",
+      "size": 7388885
+    },
+    {
+      "name": "carryon-neoforge-1.21.1-2.2.6.13.jar",
+      "url": "https://N3150N-MC.github.io/mi-launcher/mods/carryon-neoforge-1.21.1-2.2.6.13.jar",
+      "sha256": "d4f9576b6593db9486a89d35c1d84c31ee89141d99dbae2aa470350ab53c4e09",
+      "size": 361486
+    },
+    {
+      "name": "citadel-1.21.1-2.7.6.jar",
+      "url": "https://N3150N-MC.github.io/mi-launcher/mods/citadel-1.21.1-2.7.6.jar",
+      "sha256": "9e12468c49e5a95b7adbf22b3b4d05bc55565989b89c40b985cd73bdfe63c3c2",
+      "size": 3028943
+    },
+    {
+      "name": "cookingforblockheads-neoforge-1.21.1-21.1.24.jar",
+      "url": "https://N3150N-MC.github.io/mi-launcher/mods/cookingforblockheads-neoforge-1.21.1-21.1.24.jar",
+      "sha256": "ccf2e9de8130dec5642f841e76c2a684822d867b7eb26855b0f1c6d4f31e8419",
+      "size": 1266042
+    },
+    {
+      "name": "corpse-neoforge-1.21.1-1.1.22.jar",
+      "url": "https://N3150N-MC.github.io/mi-launcher/mods/corpse-neoforge-1.21.1-1.1.22.jar",
+      "sha256": "3733d86452b9ac572e924c2946e15e6b7052cc8fc990911f1c79b36ac3651b9f",
+      "size": 256780
+    },
+    {
+      "name": "create-1.21.1-6.0.10.jar",
+      "url": "https://N3150N-MC.github.io/mi-launcher/mods/create-1.21.1-6.0.10.jar",
+      "sha256": "ef87fe5709f1ba1f5b8bb20a2925b5afb4669e178fd6d8bf10c167759eefe37a",
+      "size": 19123767
+    },
+    {
+      "name": "curios-neoforge-9.5.1+1.21.1.jar",
+      "url": "https://N3150N-MC.github.io/mi-launcher/mods/curios-neoforge-9.5.1%2B1.21.1.jar",
+      "sha256": "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde",
+      "size": 410690
+    },
+    {
+      "name": "dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar",
+      "url": "https://N3150N-MC.github.io/mi-launcher/mods/dynamic-fps-3.11.4%2Bminecraft-1.21.0-neoforge.jar",
+      "sha256": "78cb67c9faeff5d1cb4da48d41e48ecc47baddaaec0f792e6edc8207aee0ab8e",
+      "size": 220193
+    },
+    {
+      "name": "embeddium-1.0.15+mc1.21.1.jar",
+      "url": "https://N3150N-MC.github.io/mi-launcher/mods/embeddium-1.0.15%2Bmc1.21.1.jar",
+      "sha256": "3aac4c4c6e82d78d8dda4c611d68c672d1061b42bb6954331e3c2e7f14c451e1",
+      "size": 1048745
+    },
+    {
+      "name": "entityculling-neoforge-1.11.3-mc1.21.1.jar",
+      "url": "https://N3150N-MC.github.io/mi-launcher/mods/entityculling-neoforge-1.11.3-mc1.21.1.jar",
+      "sha256": "fa73ac70a3766568203b730a1573b4b54d88fb48dff4a33d8c4a80be9b8d17d5",
+      "size": 1510075
+    },
+    {
+      "name": "expandability-12.0.0.jar",
+      "url": "https://N3150N-MC.github.io/mi-launcher/mods/expandability-12.0.0.jar",
+      "sha256": "6e9e21d60d6f48052482dddf0f3a24662687ac2ad3c868d7c9a88fe851d293c5",
+      "size": 44765
+    },
+    {
+      "name": "FarmersDelight-1.21.1-1.3.4.jar",
+      "url": "https://N3150N-MC.github.io/mi-launcher/mods/FarmersDelight-1.21.1-1.3.4.jar",
+      "sha256": "139ad7696462c89c03eea463f805abffa552526c5dadaadae221dd9624cb197c",
+      "size": 3160490
+    },
+    {
+      "name": "ferritecore-7.0.3-neoforge.jar",
+      "url": "https://N3150N-MC.github.io/mi-launcher/mods/ferritecore-7.0.3-neoforge.jar",
+      "sha256": "d87ea28262715ebff45b8a82d493e6b468e7a4521bc021df5d88302196d030a8",
+      "size": 121559
+    },
+    {
+      "name": "FramedBlocks-10.6.3.jar",
+      "url": "https://N3150N-MC.github.io/mi-launcher/mods/FramedBlocks-10.6.3.jar",
+      "sha256": "4c2d7de3bee56eb2d0e4e336734c7fc15fcbeb4f20cfc320e747722386f61b66",
+      "size": 4306766
+    },
+    {
+      "name": "framework-neoforge-1.21.1-0.13.11.jar",
+      "url": "https://N3150N-MC.github.io/mi-launcher/mods/framework-neoforge-1.21.1-0.13.11.jar",
+      "sha256": "429ea90a162d7c25c1463ee60979e4d7b1ddb525d9384a3a2a2f45d70bda03f5",
+      "size": 387334
+    },
+    {
+      "name": "furnitureexpanded-neoforge-1.2+1.21.1.jar",
+      "url": "https://N3150N-MC.github.io/mi-launcher/mods/furnitureexpanded-neoforge-1.2%2B1.21.1.jar",
+      "sha256": "fa8091689b8ba099287e2a0f51aac3aa05570bb9b620b8d8b39670c51c9e3df7",
+      "size": 515368
+    },
+    {
+      "name": "goblintraders-neoforge-1.21.1-1.11.2.jar",
+      "url": "https://N3150N-MC.github.io/mi-launcher/mods/goblintraders-neoforge-1.21.1-1.11.2.jar",
+      "sha256": "523aebc80baab377072fe26c5ff9d1c3649764f185131e7849acd99833d406dd",
+      "size": 462245
+    },
+    {
+      "name": "ImmediatelyFast-NeoForge-1.6.15+1.21.1.jar",
+      "url": "https://N3150N-MC.github.io/mi-launcher/mods/ImmediatelyFast-NeoForge-1.6.15%2B1.21.1.jar",
+      "sha256": "7d7b1d7b9f71d5303e42b2fa45f222a5ab06e0ef5982abb6da5dd9cc449b3702",
+      "size": 368896
+    },
+    {
+      "name": "incapacitated-neoforge-1.21.1-2.0.1.jar",
+      "url": "https://N3150N-MC.github.io/mi-launcher/mods/incapacitated-neoforge-1.21.1-2.0.1.jar",
+      "sha256": "475fe8bb3a29ef14a0ccc70e9089d72f1f92326446d229bc3799ccd52a5e9378",
+      "size": 108643
+    },
+    {
+      "name": "InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar",
+      "url": "https://N3150N-MC.github.io/mi-launcher/mods/InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar",
+      "sha256": "05f1b8660f74f543fba61d4ce7cf8632d4c69a95b7c15b1a6fd442be2e397ca6",
+      "size": 1295466
+    },
+    {
+      "name": "Jade-1.21.1-NeoForge-15.10.6.jar",
+      "url": "https://N3150N-MC.github.io/mi-launcher/mods/Jade-1.21.1-NeoForge-15.10.6.jar",
+      "sha256": "276f1f65a20d04f536989c4f311949d770b52c440c23c2b904a08860f3c93810",
+      "size": 726853
+    },
+    {
+      "name": "jei-1.21.1-neoforge-19.64.0.455.jar",
+      "url": "https://N3150N-MC.github.io/mi-launcher/mods/jei-1.21.1-neoforge-19.64.0.455.jar",
+      "sha256": "f7a9de3d7ee07eed8d293a1a1a0f6afaac556eb43c103523457bd07ebb551e7b",
+      "size": 2375741
+    },
+    {
+      "name": "kotlinforforge-5.12.0-all.jar",
+      "url": "https://N3150N-MC.github.io/mi-launcher/mods/kotlinforforge-5.12.0-all.jar",
+      "sha256": "095aed94f21b4e55895b21ea957750ae3ab829fbcfc6d3c66a3489f5f1128d46",
+      "size": 7279276
+    },
+    {
+      "name": "letmedespawn-neoforge-1.21.1-1.26.10.2.jar",
+      "url": "https://N3150N-MC.github.io/mi-launcher/mods/letmedespawn-neoforge-1.21.1-1.26.10.2.jar",
+      "sha256": "62086f1e0dc89bb2d784fb75bf2fea37925a6cc1c24b9b3e3d686f2901183e17",
+      "size": 29583
+    },
+    {
+      "name": "libIPN-neoforge-1.21.1-6.6.3.jar",
+      "url": "https://N3150N-MC.github.io/mi-launcher/mods/libIPN-neoforge-1.21.1-6.6.3.jar",
+      "sha256": "98f061ba69d31764fa10ab7810ca49062633e107a6b261ba3b66dc25ba5fef7b",
+      "size": 626146
+    },
+    {
+      "name": "mcef-neoforge-2.1.6-1.21.1.jar",
+      "url": "https://N3150N-MC.github.io/mi-launcher/mods/mcef-neoforge-2.1.6-1.21.1.jar",
+      "sha256": "0c7696216fa5cfee659d687475873c847a9a17cc8ce3a56119a69c946eeb8772",
+      "size": 215373
+    },
+    {
+      "name": "mcw-furniture-3.4.1-mc1.21.1neoforge.jar",
+      "url": "https://N3150N-MC.github.io/mi-launcher/mods/mcw-furniture-3.4.1-mc1.21.1neoforge.jar",
+      "sha256": "819fda8059b210e9de8b9275c8b8e0d931054af5a5ad47771c72d9fd4ab85e88",
+      "size": 2080436
+    },
+    {
+      "name": "mezz_config-1.21.1-neoforge-0.6.9-standalone.jar",
+      "url": "https://N3150N-MC.github.io/mi-launcher/mods/mezz_config-1.21.1-neoforge-0.6.9-standalone.jar",
+      "sha256": "deedd2c3cc30b142d1a50d4a82190970e33a70a86f89c9e5ba7eed8286087f9f",
+      "size": 345479
+    },
+    {
+      "name": "modernfix-neoforge-5.27.27+mc1.21.1.jar",
+      "url": "https://N3150N-MC.github.io/mi-launcher/mods/modernfix-neoforge-5.27.27%2Bmc1.21.1.jar",
+      "sha256": "7010aae2e837122fe8dabd5932358e2ba334fcbc62ca6530cb1cb00402d2c63b",
+      "size": 614138
+    },
+    {
+      "name": "modernlife-1.21.1-1.78.jar",
+      "url": "https://N3150N-MC.github.io/mi-launcher/mods/modernlife-1.21.1-1.78.jar",
+      "sha256": "ae90e48e055cdffc8d493d7f7e25863c5338d3e7438672dfd52b3b74c01fd6c0",
+      "size": 4246512
+    },
+    {
+      "name": "neoculus-mc1.21.1-1.8.7.jar",
+      "url": "https://N3150N-MC.github.io/mi-launcher/mods/neoculus-mc1.21.1-1.8.7.jar",
+      "sha256": "3213254321d6b5a76182ad3ec699a91cc13facce0c47c1416dfc680025f4fe44",
+      "size": 2799219
+    },
+    {
+      "name": "PrettyPipes-1.22.1-all.jar",
+      "url": "https://N3150N-MC.github.io/mi-launcher/mods/PrettyPipes-1.22.1-all.jar",
+      "sha256": "9654677fff808c6d2096e3a5f3086c4866f288dd8dbf4eb9345a2dd955b04caa",
+      "size": 2416077
+    },
+    {
+      "name": "qraftyfied-9.1.1.jar",
+      "url": "https://N3150N-MC.github.io/mi-launcher/mods/qraftyfied-9.1.1.jar",
+      "sha256": "bc7f467adb469d7f4f752dcea38d5bc62bde8977c0b22f583820a57018e96cab",
+      "size": 2509140
+    },
+    {
+      "name": "sky_whale_ship-neoforge-1.21.1.jar",
+      "url": "https://N3150N-MC.github.io/mi-launcher/mods/sky_whale_ship-neoforge-1.21.1.jar",
+      "sha256": "ad128ee14d5af95ed4bc016bd08d8cfc48fd6fa881d9fd06d7de796b137bc6d9",
+      "size": 722602
+    },
+    {
+      "name": "sleeping-bags-neoforge-1.21.1-1.0.9.jar",
+      "url": "https://N3150N-MC.github.io/mi-launcher/mods/sleeping-bags-neoforge-1.21.1-1.0.9.jar",
+      "sha256": "753881b72ce5797b0515ae77258ffc1fb0e99db64a843705835f2aa52bcd8bde",
+      "size": 172942
+    },
+    {
+      "name": "sophisticatedbackpacks-1.21.1-3.26.15.2227.jar",
+      "url": "https://N3150N-MC.github.io/mi-launcher/mods/sophisticatedbackpacks-1.21.1-3.26.15.2227.jar",
+      "sha256": "ccdbde8888577155cfe27f327056f35894677212805c11b8073a228e40c5c2fb",
+      "size": 1256131
+    },
+    {
+      "name": "sophisticatedcore-1.21.1-1.5.18.2431.jar",
+      "url": "https://N3150N-MC.github.io/mi-launcher/mods/sophisticatedcore-1.21.1-1.5.18.2431.jar",
+      "sha256": "412f90225613fa1e72bb6371efc08a6b69167f6f75a165c674eafe553975ca2a",
+      "size": 1820015
+    },
+    {
+      "name": "Structory_26.2_v1.3.7.jar",
+      "url": "https://N3150N-MC.github.io/mi-launcher/mods/Structory_26.2_v1.3.7.jar",
+      "sha256": "e9079b2bb9bc2efb9b0f1244376488e41f8b50f25415094d8f03dc753cdfb131",
+      "size": 1261346
+    },
+    {
+      "name": "trashslot-neoforge-1.21.1-21.1.11.jar",
+      "url": "https://N3150N-MC.github.io/mi-launcher/mods/trashslot-neoforge-1.21.1-21.1.11.jar",
+      "sha256": "3289b5c84a79e63d83d4ce05d8e3e15b622b2e286e0770b86f00807974a77695",
+      "size": 77535
+    },
+    {
+      "name": "trek-B0.6.2.jar",
+      "url": "https://N3150N-MC.github.io/mi-launcher/mods/trek-B0.6.2.jar",
+      "sha256": "5ea0837a4b1ef02cc702d7e7e49a245f4857591696183b9d2fe56c574cbfc022",
+      "size": 12461621
+    },
+    {
+      "name": "u_desert-2.0.3+mc1.21-1.21.11.jar",
+      "url": "https://N3150N-MC.github.io/mi-launcher/mods/u_desert-2.0.3%2Bmc1.21-1.21.11.jar",
+      "sha256": "4dad266af14834216cf71a76c19f63853db575e9ac2c39e29d378292a1970e6c",
+      "size": 503024
+    },
+    {
+      "name": "u_sea-1.2.5+mc1.19-1.21.11.jar",
+      "url": "https://N3150N-MC.github.io/mi-launcher/mods/u_sea-1.2.5%2Bmc1.19-1.21.11.jar",
+      "sha256": "4388981774f844f7f42e712ae34406d90b2b2e2119e76c36dbff8a2e3a5ee923",
+      "size": 556462
+    },
+    {
+      "name": "walljump-1.21.1-1.3.8-neoforge.jar",
+      "url": "https://N3150N-MC.github.io/mi-launcher/mods/walljump-1.21.1-1.3.8-neoforge.jar",
+      "sha256": "6450433f7785277ecee8553b7e057867473524cf2027830bd2785a8fbeb1b1a9",
+      "size": 189780
+    },
+    {
+      "name": "webdisplays-2.6.0-1.21.1.jar",
+      "url": "https://N3150N-MC.github.io/mi-launcher/mods/webdisplays-2.6.0-1.21.1.jar",
+      "sha256": "dcd57a96b36201282d5c4f3ab83e5271d68f4ca9fddbf39e712996b636f3ed34",
+      "size": 875939
+    },
+    {
+      "name": "XaeroHeadTracker-2.1.0-neoforge-1.21.1.jar",
+      "url": "https://N3150N-MC.github.io/mi-launcher/mods/XaeroHeadTracker-2.1.0-neoforge-1.21.1.jar",
+      "sha256": "76189e82c38dbc0287978d75ec9d0b97a83ef1d2624b213d4c879d0da1129a66",
+      "size": 277880
+    },
+    {
+      "name": "xaerominimap-neoforge-1.21.1-26.6.0.jar",
+      "url": "https://N3150N-MC.github.io/mi-launcher/mods/xaerominimap-neoforge-1.21.1-26.6.0.jar",
+      "sha256": "d3398221b2262abfe2d394b588122e5b3fd2e4d8c4bf66a5fd357352fcf51b2e",
+      "size": 2186351
+    },
+    {
+      "name": "xaeroworldmap-neoforge-1.21.1-1.47.0.jar",
+      "url": "https://N3150N-MC.github.io/mi-launcher/mods/xaeroworldmap-neoforge-1.21.1-1.47.0.jar",
+      "sha256": "6a42b6f01bd96b496e5fcc07d4541bad1a699d9ec8ad58ad40d5dcfe23a7d4c7",
+      "size": 1427078
+    }
+  ]
+}
